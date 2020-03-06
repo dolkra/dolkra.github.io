@@ -125,7 +125,7 @@ darkmode: false
 menu:
   home: / || home
   #about: /about/ || user
-  tags: /tags/ || sass
+  tags: /tags/ || sellsy
   categories: /categories/ || cubes
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
