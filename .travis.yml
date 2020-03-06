@@ -28,4 +28,8 @@ deploy:
   on:
     branch: source
   local-dir: public
+<<<<<<< HEAD
   target_branch: master
+=======
+  target_branch: master
+>>>>>>> 4be875e0b78376a6bdcd1a9f9f959ac82ac31ec6
