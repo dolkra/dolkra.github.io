@@ -8,6 +8,12 @@ tags:
 - [Business]
 ---
 
+
+
+A career path intro book written by a Singapore millionaire, very concrete and mind-blowing.
+
+<!-- more -->
+
 # I Seven Steps to Financial Abundance
 
 ## 1 Secrets of A Self-Made Millionaire
