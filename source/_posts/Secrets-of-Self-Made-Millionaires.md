@@ -1,6 +1,6 @@
 ---
 title: Secrets of Self-Made Millionaires
-date: {{ date }}
+date: 2020-03-10 
 categories: 
 - [Career]
 tags: 
