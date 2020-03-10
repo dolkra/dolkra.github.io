@@ -12,7 +12,7 @@ tags:
 
 A career path intro book written by a Singapore millionaire, very concrete and mind-blowing.
 
-<!-- more -->
+               <!-- more -->
 
 # I Seven Steps to Financial Abundance
 
