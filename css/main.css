@@ -1161,7 +1161,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e704f9;
+  background: #b9c9ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1379,6 +1379,22 @@ pre .javascript .function {
   .footer-inner {
     width: 900px;
   }
+}
+.languages {
+  display: inline-block;
+  font-size: 1.125em;
+  position: relative;
+}
+.languages .lang-select-label span {
+  margin: 0 0.5em;
+}
+.languages .lang-select {
+  height: 100%;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
 .with-love {
   color: #808080;
