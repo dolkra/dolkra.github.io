@@ -885,7 +885,7 @@ pre .javascript .function {
   }
 }
 .comments {
-  margin: 60px 20px 0;
+  margin-top: 60px;
   overflow: hidden;
 }
 .comment-button-group {
@@ -935,6 +935,11 @@ pre .javascript .function {
 @media (min-width: 1600px) {
   .main-inner {
     width: 900px;
+  }
+}
+@media (max-width: 767px) {
+  .content-wrap {
+    padding: 0 20px;
   }
 }
 .header {
@@ -1159,7 +1164,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #d062d5;
+  background: #e0ffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1539,13 +1544,12 @@ pre .javascript .function {
 }
 .posts-collapse {
   margin-left: 35px;
-  margin-top: 35px;
   position: relative;
 }
 @media (max-width: 767px) {
   .posts-collapse {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
   }
 }
 .posts-collapse .collection-title {
@@ -1584,6 +1588,7 @@ pre .javascript .function {
   width: 8px;
 }
 .posts-collapse .collection-header {
+  display: block;
   margin: 0 0 0 20px;
 }
 .posts-collapse .collection-header small {
@@ -1656,16 +1661,11 @@ pre .javascript .function {
   text-align: center;
   width: 8%;
 }
-.post-block:last-child .post-eof {
+.post-block:last-of-type .post-eof {
   display: none;
 }
-.posts-expand {
+.content {
   padding-top: 40px;
-}
-@media (max-width: 767px) {
-  .posts-expand {
-    margin: 0 20px;
-  }
 }
 @media (min-width: 992px) {
   .post-body {
